@@ -14,7 +14,7 @@ Desenvolvedor formado em ADS, com experiência em suporte técnico e atuação n
 - [StarCoffee (Projeto de cafeteria)](LINK_DO_OUTRO_REPOSITORIO)
 
 ## 🌐 Acesso
-Você pode visualizar a versão online deste portfólio aqui: [Acesse aqui](INSERIR_LINK_DO_GITHUB_PAGES_AQUI)
+Você pode visualizar a versão online deste portfólio aqui: [Acesse aqui](https://gabrielrosa-dev.github.io/MeuPortifolio/)
 
 ## 📩 Contato
 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/gabriel-bernardo-rosa).
