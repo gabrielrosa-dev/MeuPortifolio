@@ -1,0 +1,24 @@
+body {
+    background-color: #f4f6f8;
+}
+
+a {
+    text-decoration: none;
+}
+
+.card {
+    transition: all 0.3s ease;
+}
+
+.card:hover {
+    background-color: white;
+    border-color: #0d6efd;
+    color: #0d6efd;
+    transform: translateY(-5px);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+}
+
+.card:hover .btn, .card:hover a {
+    color: #0d6efd;
+}
